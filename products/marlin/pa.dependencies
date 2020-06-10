@@ -6,12 +6,6 @@
         "revision":     "quartz"
     },
     {
-        "target_path":  "kernel/google/marlin",
-        "repository":   "yagyaxt1034/android_kernel_google_marlin",
-        "remote":       "aospa",
-        "revision":     "quartz"
-    },
-    {
         "target_path":  "device/qcom/common",
         "repository":   "AOSPA/android_device_qcom_common",
         "remote":       "aospa",
@@ -57,6 +51,18 @@
     {
         "target_path":  "hardware/ril",
         "repository":   "AOSPA/android_hardware_ril",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "kernel/google/marlin",
+        "repository":   "yagyaxt1034/android_kernel_google_marlin",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "vendor/pa",
+        "repository":   "yagyaxt1034/android_vendor_pa",
         "remote":       "aospa",
         "revision":     "quartz"
     }
