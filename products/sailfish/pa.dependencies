@@ -1,0 +1,63 @@
+[
+    {
+        "target_path":  "device/google/marlin",
+        "repository":   "yagyaxt1034/android_device_google_marlin",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "kernel/google/marlin",
+        "repository":   "yagyaxt1034/android_kernel_google_marlin",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "device/qcom/common",
+        "repository":   "AOSPA/android_device_qcom_common",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "hardware/qcom/audio",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "remote":       "aospa",
+        "revision":     "quartz-aosp"
+    },
+    {
+        "target_path":  "hardware/qcom/bootctrl",
+        "repository":   "AOSPA/android_hardware_qcom_bootctrl",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "hardware/qcom/display",
+        "repository":   "AOSPA/android_hardware_qcom_display",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "hardware/qcom/media",
+        "repository":   "platform/hardware/qcom/media/",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r36"
+    },
+        {
+        "target_path":  "hardware/qcom/gps",
+        "repository":   "AOSPA/android_hardware_qcom_gps",
+        "remote":       "aospa",
+        "revision":     "quartz-89xx"
+    },
+    {
+        "target_path":  "hardware/qcom/keymaster",
+        "repository":   "AOSPA/android_hardware_qcom_keymaster",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    
+    {
+        "target_path":  "hardware/ril",
+        "repository":   "AOSPA/android_hardware_ril",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    }
+]
