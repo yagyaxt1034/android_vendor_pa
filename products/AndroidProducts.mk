@@ -16,13 +16,19 @@
 # Product Makefiles
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/A6020/pa_A6020.mk \
+    $(LOCAL_DIR)/angler/pa_angler.mk \
     $(LOCAL_DIR)/beryllium/pa_beryllium.mk \
     $(LOCAL_DIR)/cepheus/pa_cepheus.mk \
     $(LOCAL_DIR)/chiron/pa_chiron.mk \
     $(LOCAL_DIR)/davinci/pa_davinci.mk \
     $(LOCAL_DIR)/dipper/pa_dipper.mk \
     $(LOCAL_DIR)/ginkgo/pa_ginkgo.mk \
+    $(LOCAL_DIR)/hlte/pa_hlte.mk \
+    $(LOCAL_DIR)/hltechn/pa_hltechn.mk \
+    $(LOCAL_DIR)/hltekor/pa_hltekor.mk \
+    $(LOCAL_DIR)/hltetmo/pa_hltetmo.mk \
     $(LOCAL_DIR)/land/pa_land.mk \
+    $(LOCAL_DIR)/lavender/pa_lavender.mk \
     $(LOCAL_DIR)/marlin/pa_marlin.mk \
     $(LOCAL_DIR)/mata/pa_mata.mk \
     $(LOCAL_DIR)/oneplus3/pa_oneplus3.mk \
@@ -46,15 +52,21 @@ PRODUCT_MAKEFILES += \
 # Lunch targets
 COMMON_LUNCH_CHOICES += \
     pa_A6020-userdebug \
+    pa_angler-userdebug \
     pa_beryllium-userdebug \
     pa_cepheus-userdebug \
     pa_chiron-userdebug \
     pa_davinci-userdebug \
     pa_dipper-userdebug \
     pa_ginkgo-userdebug \
+    pa_hlte-userdebug \
+    pa_hltechn-userdebug \
+    pa_hltekor-userdebug \
+    pa_hltetmo-userdebug \
     pa_marlin-userdebug \
     pa_mata-userdebug \
     pa_land-userdebug \
+    pa_lavender-userdebug \
     pa_oneplus3-userdebug \
     pa_oneplus6-userdebug \
     pa_oneplus7-userdebug \
