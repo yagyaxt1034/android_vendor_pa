@@ -13,15 +13,21 @@
     },
     {
         "target_path":  "hardware/qcom/audio",
-        "repository":   "platform/hardware/qcom/audio",
+        "repository":   "yagyaxt1034/android_hardware_qcom_audio",
+        "remote":       "aospa",
+        "revision":     "quartz-aosp"
+    },
+    {
+        "target_path":  "hardware/qcom/camera",
+        "repository":   "platform/hardware/qcom/camera",
         "remote":       "aosp",
         "revision":     "refs/tags/android-10.0.0_r39"
     },
     {
         "target_path":  "hardware/qcom/display",
-        "repository":   "platform/hardware/qcom/display",
-        "remote":       "aosp",
-        "revision":     "refs/tags/android-10.0.0_r39"
+        "repository":   "yagyaxt1034/android_hardware_qcom_display",
+        "remote":       "aospa",
+        "revision":     "quartz-aosp"
     },
     {
         "target_path":  "hardware/qcom/gps",
