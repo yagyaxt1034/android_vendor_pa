@@ -19,9 +19,9 @@
     },
     {
         "target_path":  "hardware/qcom/camera",
-        "repository":   "platform/hardware/qcom/camera",
-        "remote":       "aosp",
-        "revision":     "refs/tags/android-10.0.0_r39"
+        "repository":   "yagyaxt1034/android_hardware_qcom_camera",
+        "remote":       "aospa",
+        "revision":     "quartz-aosp"
     },
     {
         "target_path":  "hardware/qcom/display",
