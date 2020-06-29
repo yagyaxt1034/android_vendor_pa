@@ -100,5 +100,10 @@
         "repository":   "yagyaxt1034/android_vendor_qcom_opensource_commonsys-intf_display",
         "remote":       "aospa",
         "revision":     "quartz-pixel"
+    },
+    {   "target_path":  "vendor/qcom/opensource/data-ipa-cfg-mgr",
+        "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource_data-ipa-cfg-mgr",
+        "remote":       "aospa",
+        "revision":     "quiche"
     }
 ]
