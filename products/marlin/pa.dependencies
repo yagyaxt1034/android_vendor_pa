@@ -21,7 +21,7 @@
         "target_path":  "hardware/qcom/camera",
         "repository":   "yagyaxt1034/android_hardware_qcom_camera",
         "remote":       "aospa",
-        "revision":     "quartz-aosp"
+        "revision":     "quartz"
     },
     {
         "target_path":  "hardware/qcom/display",
