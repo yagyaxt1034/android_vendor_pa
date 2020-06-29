@@ -13,41 +13,64 @@
     },
     {
         "target_path":  "hardware/qcom/audio",
-        "repository":   "AOSPA/android_hardware_qcom_audio",
-        "remote":       "aospa",
-        "revision":     "quartz-aosp"
-    },
-    {
-        "target_path":  "hardware/qcom/bootctrl",
-        "repository":   "AOSPA/android_hardware_qcom_bootctrl",
-        "remote":       "aospa",
-        "revision":     "quartz"
+        "repository":   "platform/hardware/qcom/audio",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
     },
     {
         "target_path":  "hardware/qcom/display",
-        "repository":   "AOSPA/android_hardware_qcom_display",
-        "remote":       "aospa",
-        "revision":     "quartz"
+        "repository":   "platform/hardware/qcom/display",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
     },
     {
-        "target_path":  "hardware/qcom/media",
-        "repository":   "platform/hardware/qcom/media/",
-        "remote":       "aosp",
-        "revision":     "refs/tags/android-10.0.0_r36"
-    },
-        {
         "target_path":  "hardware/qcom/gps",
-        "repository":   "AOSPA/android_hardware_qcom_gps",
-        "remote":       "aospa",
-        "revision":     "quartz-89xx"
+        "repository":   "platform/hardware/qcom/gps",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
     },
     {
         "target_path":  "hardware/qcom/keymaster",
-        "repository":   "AOSPA/android_hardware_qcom_keymaster",
-        "remote":       "aospa",
-        "revision":     "quartz"
+        "repository":   "platform/hardware/qcom/keymaster",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
     },
-    
+    {
+        "target_path":  "hardware/qcom/media",
+        "repository":   "platform/hardware/qcom/media",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
+    },
+    {
+        "target_path":  "hardware/qcom/msm8960",
+        "repository":   "platform/hardware/qcom/msm8960",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
+    },
+    {
+        "target_path":  "hardware/qcom/msm8996",
+        "repository":   "platform/hardware/qcom/msm8996",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
+    },
+    {
+        "target_path":  "hardware/qcom/msm8x09",
+        "repository":   "platform/hardware/qcom/msm8x09",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
+    },
+    {
+        "target_path":  "hardware/qcom/power",
+        "repository":   "platform/hardware/qcom/power",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
+    },
+    {
+        "target_path":  "external/wpa_supplicant_8",
+        "repository":   "platform/external/wpa_supplicant_8",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r39"
+    },
     {
         "target_path":  "hardware/ril",
         "repository":   "AOSPA/android_hardware_ril",
