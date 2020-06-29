@@ -85,9 +85,9 @@
     },
     {
         "target_path":  "kernel/google/marlin",
-        "repository":   "yagyaxt1034/LunarKernel-marlin",
+        "repository":   "yagyaxt1034/android_kernel_google_marlin",
         "remote":       "aospa",
-        "revision":     "android-msm-marlin-3.18"
+        "revision":     "quartz"
     },
     {
         "target_path":  "vendor/pa",
