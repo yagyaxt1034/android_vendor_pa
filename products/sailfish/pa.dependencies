@@ -43,9 +43,9 @@
     },
     {
         "target_path":  "hardware/qcom/media",
-        "repository":   "AOSPA/android_hardware_qcom_media",
+        "repository":   "pixeldust-project-caf/android_hardware_qcom_media",
         "remote":       "aospa",
-        "revision":     "quartz-aosp"
+        "revision":     "quiche"
     },
     {
         "target_path":  "hardware/qcom/msm8960",
