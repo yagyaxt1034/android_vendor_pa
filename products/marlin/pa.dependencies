@@ -1,0 +1,119 @@
+[
+    {
+        "target_path":  "device/google/marlin",
+        "repository":   "yagyaxt1034/platform_device_google_marlin",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "device/google/contexthub",
+        "repository":   "device/google/contexthub",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "target_path":  "device/qcom/common",
+        "repository":   "AOSPA/android_device_qcom_common",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "hardware/qcom/audio",
+        "repository":   "platform/hardware/qcom/audio",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "target_path":  "hardware/qcom/camera",
+        "repository":   "yagyaxt1034/android_hardware_qcom_camera",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "hardware/qcom/display",
+        "repository":   "pixeldust-project-caf/android_hardware_qcom_display",
+        "remote":       "aospa",
+        "revision":     "quiche"
+    },
+    {
+        "target_path":  "hardware/qcom/gps",
+        "repository":   "AOSPA/android_hardware_qcom_gps",
+        "remote":       "aospa",
+        "revision":     "quartz-aosp"
+    },
+    {
+        "target_path":  "hardware/qcom/keymaster",
+        "repository":   "AOSPA/android_hardware_qcom_keymaster",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {
+        "target_path":  "hardware/qcom/media",
+        "repository":   "yagyaxt1034/android_hardware_qcom_media",
+        "remote":       "aospa",
+        "revision":     "quartz-aosp"
+    },
+    {
+        "target_path":  "hardware/qcom/msm8960",
+        "repository":   "platform/hardware/qcom/msm8960",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "target_path":  "hardware/qcom/msm8996",
+        "repository":   "platform/hardware/qcom/msm8996",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "target_path":  "hardware/qcom/msm8998",
+        "repository":   "platform/hardware/qcom/msm8998",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "target_path":  "hardware/qcom/power",
+        "repository":   "platform/hardware/qcom/power",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "target_path":  "external/wpa_supplicant_8",
+        "repository":   "platform/external/wpa_supplicant_8",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "target_path":  "kernel/google/marlin",
+        "repository":   "yagyaxt1034/LunarKernel-marlin",
+        "remote":       "aospa",
+        "revision":     "android-msm-marlin-3.18"
+    },
+    {
+        "target_path":  "vendor/google_devices",
+        "repository":   "Lunarixus/proprietary_vendor_google",
+        "remote":       "aospa",
+        "revision":     "lineage-17.1"
+    },
+    {
+        "target_path":  "vendor/pa",
+        "repository":   "yagyaxt1034/android_vendor_pa",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    },
+    {   "target_path":  "vendor/qcom/opensource/data-ipa-cfg-mgr",
+        "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource_data-ipa-cfg-mgr",
+        "remote":       "aospa",
+        "revision":     "quiche"
+    },
+    {   "target_path":  "vendor/qcom/opensource/dataservices",
+        "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource-dataservices",
+        "remote":       "aospa",
+        "revision":     "quiche"
+    },
+    {   "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
+        "repository":   "AOSPA/android_vendor_qcom_opensource_commonsys-intf_display",
+        "remote":       "aospa",
+        "revision":     "quartz"
+    }
+]
