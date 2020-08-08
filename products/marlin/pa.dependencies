@@ -105,7 +105,7 @@
         "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource_data-ipa-cfg-mgr",
         "remote":       "aospa",
         "revision":     "quiche"
-    }
+    },
     {   "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
         "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource_commonsys-intf/display",
         "remote":       "aospa",
