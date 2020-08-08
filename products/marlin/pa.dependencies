@@ -67,7 +67,7 @@
     },
     {
         "target_path":  "hardware/qcom/msm8998",
-        "repository":   "platform/hardware/qcom/8998",
+        "repository":   "platform/hardware/qcom/msm8998",
         "remote":       "aosp",
         "revision":     "refs/tags/android-10.0.0_r41"
     },
