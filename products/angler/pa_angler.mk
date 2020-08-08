@@ -28,7 +28,7 @@ $(call inherit-product, vendor/pa/config/common_full_phone.mk)
 # Override AOSP defaults that we want changed.
 PRODUCT_NAME := pa_angler
 PRODUCT_DEVICE := angler
-PRODUCT_BRAND := google
+PRODUCT_BRAND := Google
 PRODUCT_MODEL := Nexus 6P
 PRODUCT_MANUFACTURER := Huawei
 PRODUCT_RESTRICT_VENDOR_FILES := false
