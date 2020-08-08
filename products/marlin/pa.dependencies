@@ -31,9 +31,9 @@
     },
     {
         "target_path":  "hardware/qcom/display",
-        "repository":   "yagyaxt1034/android_hardware_qcom_display",
+        "repository":   "pixeldust-project-caf/android_hardware_qcom_display",
         "remote":       "aospa",
-        "revision":     "quartz-aosp"
+        "revision":     "quiche"
     },
     {
         "target_path":  "hardware/qcom/gps",
@@ -103,6 +103,11 @@
     },
     {   "target_path":  "vendor/qcom/opensource/data-ipa-cfg-mgr",
         "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource_data-ipa-cfg-mgr",
+        "remote":       "aospa",
+        "revision":     "quiche"
+    }
+    {   "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
+        "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource_commonsys-intf/display",
         "remote":       "aospa",
         "revision":     "quiche"
     }
