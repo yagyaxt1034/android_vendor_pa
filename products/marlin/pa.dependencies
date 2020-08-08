@@ -49,7 +49,7 @@
     },
     {
         "target_path":  "hardware/qcom/media",
-        "repository":   "AOSPA/android_hardware_qcom_media",
+        "repository":   "yagyaxt1034/android_hardware_qcom_media",
         "remote":       "aospa",
         "revision":     "quartz-aosp"
     },
@@ -112,8 +112,8 @@
         "revision":     "quiche"
     },
     {   "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
-        "repository":   "pixeldust-project-caf/android_vendor_qcom_opensource_commonsys-intf_display",
+        "repository":   "AOSPA/android_vendor_qcom_opensource_commonsys-intf_display",
         "remote":       "aospa",
-        "revision":     "quiche"
+        "revision":     "quartz"
     }
 ]
