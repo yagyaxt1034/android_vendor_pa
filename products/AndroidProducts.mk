@@ -31,6 +31,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/jasmine_sprout/pa_jasmine_sprout.mk \
     $(LOCAL_DIR)/land/pa_land.mk \
     $(LOCAL_DIR)/lavender/pa_lavender.mk \
+    $(LOCAL_DIR)/marlin/pa_marlin.mk \
     $(LOCAL_DIR)/mata/pa_mata.mk \
     $(LOCAL_DIR)/onc/pa_onc.mk \
     $(LOCAL_DIR)/oneplus3/pa_oneplus3.mk \
@@ -45,6 +46,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/rolex/pa_rolex.mk \
     $(LOCAL_DIR)/rosy/pa_rosy.mk \
     $(LOCAL_DIR)/sagit/pa_sagit.mk \
+    $(LOCAL_DIR)/sailfish/pa_sailfish.mk \
     $(LOCAL_DIR)/sakura/pa_sakura.mk \
     $(LOCAL_DIR)/wayne/pa_wayne.mk \
     $(LOCAL_DIR)/whyred/pa_whyred.mk \
@@ -69,6 +71,7 @@ COMMON_LUNCH_CHOICES += \
     pa_jasmine_sprout-userdebug \
     pa_land-userdebug \
     pa_lavender-userdebug \
+    pa_marlin-userdebug \
     pa_mata-userdebug \
     pa_onc-userdebug \
     pa_oneplus3-userdebug \
@@ -82,6 +85,7 @@ COMMON_LUNCH_CHOICES += \
     pa_rosy-userdebug \
     pa_raphael-userdebug \
     pa_sagit-userdebug \
+    pa_sailfish-userdebug \
     pa_sakura-userdebug \
     pa_wayne-userdebug \
     pa_whyred-userdebug \
