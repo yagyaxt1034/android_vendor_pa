@@ -33,7 +33,7 @@
         "target_path":  "hardware/qcom/display",
         "repository":   "yagyaxt1034/android_hardware_qcom_display",
         "remote":       "aospa",
-        "revision":     "quartz"
+        "revision":     "quartz-aosp-8996"
     },
     {
         "target_path":  "hardware/qcom/gps",
